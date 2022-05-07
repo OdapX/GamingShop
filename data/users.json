@@ -1,0 +1,28 @@
+[
+  {
+    "login": "toghrul",
+    "password": "a12345",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rfYZrV_rjkntwpCNeRkSEWeR01C7bRaQLZwoUzySkuNpyD_xlIMIEhrOXY7ZCkv8gUY&usqp=CAU",
+    "username": "Toghrul Eyvazov",
+    "description": "Student, Technologies of information systems",
+    "isAdmin": true
+  },
+
+  {
+    "login": "user",
+    "password": "12345q",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/194/194938.png",
+    "username": "Alexandra",
+    "description": "Student",
+    "isAdmin": false
+  },
+
+  {
+    "login": "123",
+    "password": "11223q",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxtcl-1iO_yF8nszUob_EssatZo8c_aZbuwiH_IxKpHXL3iUI03IRkfkUfX0GPwpzsHg&usqp=CAU",
+    "username": "User",
+    "description": "Gamer",
+    "isAdmin": false
+  }
+]
